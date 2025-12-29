@@ -407,9 +407,7 @@ MIT License - see LICENSE file for details
 
 ---
 
-## Author
 
-**CSE 244 Fall 2025 Final Project**
 
 ---
 
