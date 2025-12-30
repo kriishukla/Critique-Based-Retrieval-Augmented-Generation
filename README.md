@@ -393,11 +393,6 @@ For more details, see:
 - **Evaluation**: `src/evaluation/` scripts
 - **Configuration**: `config.yaml` with inline comments
 
----
-
-## Contributing
-
-This is a research project for CSE 244 Fall 2025. Contributions, issues, and feature requests are welcome!
 
 ---
 
@@ -415,13 +410,12 @@ MIT License - see LICENSE file for details
 
 - SQuAD dataset: Rajpurkar et al., 2016
 - OpenAI API for LLM capabilities
-- Course: CSE 244 - Advanced NLP
 
 ---
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact the author.
+For questions or issues, please open a GitHub issue.
 
 ---
 
