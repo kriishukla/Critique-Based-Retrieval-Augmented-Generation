@@ -310,7 +310,7 @@ The critique mechanism successfully:
 
 ---
 
-## �️ Customization
+## Customization
 
 ### **Adjust Quality Threshold**
 
